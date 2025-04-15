@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206741722944",
+    "project_id": "test-app-60cf7",
+    "storage_bucket": "test-app-60cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206741722944:android:7a14ca9157a09ae1c34ca5",
+        "android_client_info": {
+          "package_name": "com.esty.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206741722944-3hvl4joun77s3g727sg5rplmc48klua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mtZzENTqvKP8-QXCGrGC7v0vICQMeM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206741722944-3hvl4joun77s3g727sg5rplmc48klua7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
